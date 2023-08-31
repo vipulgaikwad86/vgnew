@@ -1,0 +1,19 @@
+git command
+
+once per projecct
+
+git init
+
+git remote add origin Link
+
+git add .
+git commit -m "initial commit"
+git push origin master
+
+
+
+every update
+
+git add .
+git commit -m "initial commit"
+git push origin master
